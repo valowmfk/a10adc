@@ -8,3 +8,7 @@ ADC/GSLB Lab - A10 Networks
 # text in gray
 @@ text in purple (and bold)@@
 ```
+
+```diff
+- Red text will be in regards to GSLB controllers
++ Green text will be in reference to SLB ADC
